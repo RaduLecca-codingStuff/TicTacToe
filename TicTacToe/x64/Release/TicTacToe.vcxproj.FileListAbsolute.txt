@@ -1,0 +1,4 @@
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Release\TicTacToe.vcxproj.AssemblyReference.cache
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Release\TicTacToe.Game.resources
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Release\TicTacToe.Settings.resources
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Release\TicTacToe.vcxproj.GenerateResource.cache

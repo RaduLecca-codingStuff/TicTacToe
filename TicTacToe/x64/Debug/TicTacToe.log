@@ -1,0 +1,56 @@
+﻿  Game.cpp
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(10,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(64,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(68,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(131,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(135,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,39): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,42): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,45): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,51): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,53): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,62): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,64): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,66): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,39): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,42): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,45): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,51): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,53): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,62): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,64): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,66): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(508,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Settings.cpp
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(10,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(64,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(68,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(131,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Difficulties.h(135,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,39): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,42): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,45): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,51): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,53): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,62): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,64): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(466,66): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,39): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,42): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,45): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,51): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,53): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,55): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,62): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,64): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(505,66): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Game.h(508,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\Settings.cpp(5,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  Game.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TicTacToe.vcxproj -> C:\Users\ldryo\source\repos\TicTacToe\x64\Debug\TicTacToe.exe

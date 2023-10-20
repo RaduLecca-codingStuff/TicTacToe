@@ -2,3 +2,7 @@ C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.Asse
 C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.Game.resources
 C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
 C:\Users\ldryo\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.Settings.resources
+C:\Users\ldryo\Documents\GitHub\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+C:\Users\ldryo\Documents\GitHub\TicTacToe\TicTacToe\x64\Debug\TicTacToe.Game.resources
+C:\Users\ldryo\Documents\GitHub\TicTacToe\TicTacToe\x64\Debug\TicTacToe.Settings.resources
+C:\Users\ldryo\Documents\GitHub\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache

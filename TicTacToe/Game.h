@@ -40,6 +40,7 @@ namespace TicTacToe {
 			{
 				delete components;
 			}
+			exit(0);
 		}
 	private: System::Windows::Forms::PictureBox^ bkg;
 	private: System::Windows::Forms::PictureBox^ Slot1;
